@@ -1,0 +1,216 @@
+﻿  imgui.cpp
+C:\Users\Admin\Desktop\ExentriC Imgui Menu\imgui.cpp(5319,74): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\Admin\Desktop\ExentriC Imgui Menu\imgui.cpp(5319,71): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\Admin\Desktop\ExentriC Imgui Menu\imgui.cpp(5319,137): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\Admin\Desktop\ExentriC Imgui Menu\imgui.cpp(5319,134): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\Admin\Desktop\ExentriC Imgui Menu\imgui.cpp(5324,74): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\Admin\Desktop\ExentriC Imgui Menu\imgui.cpp(5324,71): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\Admin\Desktop\ExentriC Imgui Menu\imgui.cpp(5324,137): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\Admin\Desktop\ExentriC Imgui Menu\imgui.cpp(5324,134): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\Admin\Desktop\ExentriC Imgui Menu\imgui.cpp(5296,91): warning C4100: "border": Unreferenzierter formaler Parameter
+C:\Users\Admin\Desktop\ExentriC Imgui Menu\imgui.cpp(5340,17): warning C4189: "backup_border_size": Lokale Variable ist initialisiert aber nicht referenziert
+C:\Users\Admin\Desktop\ExentriC Imgui Menu\imgui.cpp(12121,20): warning C4505: "ImGui::NavUpdateWindowing": Eine nicht referenzierte Funktion mit interner Verknüpfung wurde entfernt.
+  imgui_draw.cpp
+  imgui_freetype.cpp
+C:\Users\Admin\Desktop\ExentriC Imgui Menu\imgui_freetype.cpp(1,1): warning C4828: Die Datei enthält ein Zeichen, das bei Offset 0xf69 beginnt. Dieses Zeichen ist im aktuellen Quellzeichensatz (Codepage 65001) unzulässig.
+C:\Users\Admin\Desktop\ExentriC Imgui Menu\imgui_freetype.cpp(1,1): warning C4828: Die Datei enthält ein Zeichen, das bei Offset 0xf6e beginnt. Dieses Zeichen ist im aktuellen Quellzeichensatz (Codepage 65001) unzulässig.
+  imgui_tables.cpp
+  imgui_widgets.cpp
+C:\Users\Admin\Desktop\ExentriC Imgui Menu\imgui_widgets.cpp(1091,122): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\Admin\Desktop\ExentriC Imgui Menu\imgui_widgets.cpp(1056,23): warning C4189: "style": Lokale Variable ist initialisiert aber nicht referenziert
+C:\Users\Admin\Desktop\ExentriC Imgui Menu\imgui_widgets.cpp(1147,187): warning C4244: "Argument": Konvertierung von "float" in "ImDrawFlags", möglicher Datenverlust
+C:\Users\Admin\Desktop\ExentriC Imgui Menu\imgui_widgets.cpp(1120,23): warning C4189: "style": Lokale Variable ist initialisiert aber nicht referenziert
+C:\Users\Admin\Desktop\ExentriC Imgui Menu\imgui_widgets.cpp(1171,23): warning C4189: "style": Lokale Variable ist initialisiert aber nicht referenziert
+C:\Users\Admin\Desktop\ExentriC Imgui Menu\imgui_widgets.cpp(1403,151): warning C4100: "flags": Unreferenzierter formaler Parameter
+C:\Users\Admin\Desktop\ExentriC Imgui Menu\imgui_widgets.cpp(1593,23): warning C4189: "style": Lokale Variable ist initialisiert aber nicht referenziert
+C:\Users\Admin\Desktop\ExentriC Imgui Menu\imgui_widgets.cpp(2215,25): warning C4189: "pressed": Lokale Variable ist initialisiert aber nicht referenziert
+C:\Users\Admin\Desktop\ExentriC Imgui Menu\imgui_widgets.cpp(2193,30): warning C4189: "backup_next_window_data_flags": Lokale Variable ist initialisiert aber nicht referenziert
+C:\Users\Admin\Desktop\ExentriC Imgui Menu\imgui_widgets.cpp(2265,10): warning C4189: "ret": Lokale Variable ist initialisiert aber nicht referenziert
+C:\Users\Admin\Desktop\ExentriC Imgui Menu\imgui_widgets.cpp(2296,51): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\Admin\Desktop\ExentriC Imgui Menu\imgui_widgets.cpp(2279,19): warning C4189: "g": Lokale Variable ist initialisiert aber nicht referenziert
+C:\Users\Admin\Desktop\ExentriC Imgui Menu\imgui_widgets.cpp(2408,43): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\Admin\Desktop\ExentriC Imgui Menu\imgui_widgets.cpp(3550,153): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\Admin\Desktop\ExentriC Imgui Menu\imgui_widgets.cpp(3551,151): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\Admin\Desktop\ExentriC Imgui Menu\imgui_widgets.cpp(5757,60): warning C4390: ";": Leere kontrollierte Anweisung aufgetreten; ist dies beabsichtigt?
+C:\Users\Admin\Desktop\ExentriC Imgui Menu\imgui_widgets.cpp(5759,61): warning C4390: ";": Leere kontrollierte Anweisung aufgetreten; ist dies beabsichtigt?
+C:\Users\Admin\Desktop\ExentriC Imgui Menu\imgui_widgets.cpp(6103,153): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\Admin\Desktop\ExentriC Imgui Menu\imgui_widgets.cpp(5877,99): warning C4100: "ref_col": Unreferenzierter formaler Parameter
+C:\Users\Admin\Desktop\ExentriC Imgui Menu\imgui_widgets.cpp(5915,11): warning C4189: "square_sz": Lokale Variable ist initialisiert aber nicht referenziert
+C:\Users\Admin\Desktop\ExentriC Imgui Menu\imgui_widgets.cpp(5921,11): warning C4189: "bars_triangles_half_sz": Lokale Variable ist initialisiert aber nicht referenziert
+C:\Users\Admin\Desktop\ExentriC Imgui Menu\imgui_widgets.cpp(6045,17): warning C4189: "col_midgrey": Lokale Variable ist initialisiert aber nicht referenziert
+C:\Users\Admin\Desktop\ExentriC Imgui Menu\imgui_widgets.cpp(6117,106): warning C4100: "size_arg": Unreferenzierter formaler Parameter
+C:\Users\Admin\Desktop\ExentriC Imgui Menu\imgui_widgets.cpp(6125,17): warning C4189: "default_size": Lokale Variable ist initialisiert aber nicht referenziert
+C:\Users\Admin\Desktop\ExentriC Imgui Menu\imgui_widgets.cpp(6123,19): warning C4189: "g": Lokale Variable ist initialisiert aber nicht referenziert
+C:\Users\Admin\Desktop\ExentriC Imgui Menu\imgui_widgets.cpp(5561,13): warning C4505: "ColorEditRestoreH": Eine nicht referenzierte Funktion mit interner Verknüpfung wurde entfernt.
+C:\Users\Admin\Desktop\ExentriC Imgui Menu\imgui_widgets.cpp(5856,13): warning C4505: "RenderArrowsForVerticalBar": Eine nicht referenzierte Funktion mit interner Verknüpfung wurde entfernt.
+  imgui_impl_dx11.cpp
+C:\Users\Admin\Desktop\ExentriC Imgui Menu\SDK\Include\dxgitype.h(12,1): warning C4005: "DXGI_STATUS_OCCLUDED": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(57679,1): message : Siehe vorherige Definition von "DXGI_STATUS_OCCLUDED"
+C:\Users\Admin\Desktop\ExentriC Imgui Menu\SDK\Include\dxgitype.h(13,1): warning C4005: "DXGI_STATUS_CLIPPED": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(57688,1): message : Siehe vorherige Definition von "DXGI_STATUS_CLIPPED"
+C:\Users\Admin\Desktop\ExentriC Imgui Menu\SDK\Include\dxgitype.h(14,1): warning C4005: "DXGI_STATUS_NO_REDIRECTION": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(57697,1): message : Siehe vorherige Definition von "DXGI_STATUS_NO_REDIRECTION"
+C:\Users\Admin\Desktop\ExentriC Imgui Menu\SDK\Include\dxgitype.h(15,1): warning C4005: "DXGI_STATUS_NO_DESKTOP_ACCESS": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(57706,1): message : Siehe vorherige Definition von "DXGI_STATUS_NO_DESKTOP_ACCESS"
+C:\Users\Admin\Desktop\ExentriC Imgui Menu\SDK\Include\dxgitype.h(16,1): warning C4005: "DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(57715,1): message : Siehe vorherige Definition von "DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE"
+C:\Users\Admin\Desktop\ExentriC Imgui Menu\SDK\Include\dxgitype.h(17,1): warning C4005: "DXGI_STATUS_MODE_CHANGED": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(57724,1): message : Siehe vorherige Definition von "DXGI_STATUS_MODE_CHANGED"
+C:\Users\Admin\Desktop\ExentriC Imgui Menu\SDK\Include\dxgitype.h(18,1): warning C4005: "DXGI_STATUS_MODE_CHANGE_IN_PROGRESS": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(57733,1): message : Siehe vorherige Definition von "DXGI_STATUS_MODE_CHANGE_IN_PROGRESS"
+C:\Users\Admin\Desktop\ExentriC Imgui Menu\SDK\Include\dxgitype.h(21,1): warning C4005: "DXGI_ERROR_INVALID_CALL": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(57748,1): message : Siehe vorherige Definition von "DXGI_ERROR_INVALID_CALL"
+C:\Users\Admin\Desktop\ExentriC Imgui Menu\SDK\Include\dxgitype.h(22,1): warning C4005: "DXGI_ERROR_NOT_FOUND": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(57757,1): message : Siehe vorherige Definition von "DXGI_ERROR_NOT_FOUND"
+C:\Users\Admin\Desktop\ExentriC Imgui Menu\SDK\Include\dxgitype.h(23,1): warning C4005: "DXGI_ERROR_MORE_DATA": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(57766,1): message : Siehe vorherige Definition von "DXGI_ERROR_MORE_DATA"
+C:\Users\Admin\Desktop\ExentriC Imgui Menu\SDK\Include\dxgitype.h(24,1): warning C4005: "DXGI_ERROR_UNSUPPORTED": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(57775,1): message : Siehe vorherige Definition von "DXGI_ERROR_UNSUPPORTED"
+C:\Users\Admin\Desktop\ExentriC Imgui Menu\SDK\Include\dxgitype.h(25,1): warning C4005: "DXGI_ERROR_DEVICE_REMOVED": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(57784,1): message : Siehe vorherige Definition von "DXGI_ERROR_DEVICE_REMOVED"
+C:\Users\Admin\Desktop\ExentriC Imgui Menu\SDK\Include\dxgitype.h(26,1): warning C4005: "DXGI_ERROR_DEVICE_HUNG": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(57793,1): message : Siehe vorherige Definition von "DXGI_ERROR_DEVICE_HUNG"
+C:\Users\Admin\Desktop\ExentriC Imgui Menu\SDK\Include\dxgitype.h(27,1): warning C4005: "DXGI_ERROR_DEVICE_RESET": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(57803,1): message : Siehe vorherige Definition von "DXGI_ERROR_DEVICE_RESET"
+C:\Users\Admin\Desktop\ExentriC Imgui Menu\SDK\Include\dxgitype.h(28,1): warning C4005: "DXGI_ERROR_WAS_STILL_DRAWING": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(57812,1): message : Siehe vorherige Definition von "DXGI_ERROR_WAS_STILL_DRAWING"
+C:\Users\Admin\Desktop\ExentriC Imgui Menu\SDK\Include\dxgitype.h(29,1): warning C4005: "DXGI_ERROR_FRAME_STATISTICS_DISJOINT": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(57822,1): message : Siehe vorherige Definition von "DXGI_ERROR_FRAME_STATISTICS_DISJOINT"
+C:\Users\Admin\Desktop\ExentriC Imgui Menu\SDK\Include\dxgitype.h(30,1): warning C4005: "DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(57831,1): message : Siehe vorherige Definition von "DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE"
+C:\Users\Admin\Desktop\ExentriC Imgui Menu\SDK\Include\dxgitype.h(31,1): warning C4005: "DXGI_ERROR_DRIVER_INTERNAL_ERROR": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(57841,1): message : Siehe vorherige Definition von "DXGI_ERROR_DRIVER_INTERNAL_ERROR"
+C:\Users\Admin\Desktop\ExentriC Imgui Menu\SDK\Include\dxgitype.h(32,1): warning C4005: "DXGI_ERROR_NONEXCLUSIVE": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(57850,1): message : Siehe vorherige Definition von "DXGI_ERROR_NONEXCLUSIVE"
+C:\Users\Admin\Desktop\ExentriC Imgui Menu\SDK\Include\dxgitype.h(33,1): warning C4005: "DXGI_ERROR_NOT_CURRENTLY_AVAILABLE": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(57859,1): message : Siehe vorherige Definition von "DXGI_ERROR_NOT_CURRENTLY_AVAILABLE"
+C:\Users\Admin\Desktop\ExentriC Imgui Menu\SDK\Include\dxgitype.h(34,1): warning C4005: "DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(57869,1): message : Siehe vorherige Definition von "DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED"
+C:\Users\Admin\Desktop\ExentriC Imgui Menu\SDK\Include\dxgitype.h(35,1): warning C4005: "DXGI_ERROR_REMOTE_OUTOFMEMORY": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(57878,1): message : Siehe vorherige Definition von "DXGI_ERROR_REMOTE_OUTOFMEMORY"
+C:\Users\Admin\Desktop\ExentriC Imgui Menu\SDK\Include\d3d11.h(917,1): warning C4005: "D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(58170,1): message : Siehe vorherige Definition von "D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS"
+C:\Users\Admin\Desktop\ExentriC Imgui Menu\SDK\Include\d3d11.h(918,1): warning C4005: "D3D11_ERROR_FILE_NOT_FOUND": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(58179,1): message : Siehe vorherige Definition von "D3D11_ERROR_FILE_NOT_FOUND"
+C:\Users\Admin\Desktop\ExentriC Imgui Menu\SDK\Include\d3d11.h(919,1): warning C4005: "D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(58189,1): message : Siehe vorherige Definition von "D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS"
+C:\Users\Admin\Desktop\ExentriC Imgui Menu\SDK\Include\d3d11.h(920,1): warning C4005: "D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(58198,1): message : Siehe vorherige Definition von "D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD"
+C:\Users\Admin\Desktop\ExentriC Imgui Menu\SDK\Include\d3d10.h(608,1): warning C4005: "D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(58146,1): message : Siehe vorherige Definition von "D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS"
+C:\Users\Admin\Desktop\ExentriC Imgui Menu\SDK\Include\d3d10.h(609,1): warning C4005: "D3D10_ERROR_FILE_NOT_FOUND": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(58155,1): message : Siehe vorherige Definition von "D3D10_ERROR_FILE_NOT_FOUND"
+  imgui_impl_win32.cpp
+  main.cpp
+C:\Users\Admin\Desktop\ExentriC Imgui Menu\SDK\Include\dxgitype.h(12,1): warning C4005: "DXGI_STATUS_OCCLUDED": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(57679,1): message : Siehe vorherige Definition von "DXGI_STATUS_OCCLUDED"
+C:\Users\Admin\Desktop\ExentriC Imgui Menu\SDK\Include\dxgitype.h(13,1): warning C4005: "DXGI_STATUS_CLIPPED": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(57688,1): message : Siehe vorherige Definition von "DXGI_STATUS_CLIPPED"
+C:\Users\Admin\Desktop\ExentriC Imgui Menu\SDK\Include\dxgitype.h(14,1): warning C4005: "DXGI_STATUS_NO_REDIRECTION": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(57697,1): message : Siehe vorherige Definition von "DXGI_STATUS_NO_REDIRECTION"
+C:\Users\Admin\Desktop\ExentriC Imgui Menu\SDK\Include\dxgitype.h(15,1): warning C4005: "DXGI_STATUS_NO_DESKTOP_ACCESS": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(57706,1): message : Siehe vorherige Definition von "DXGI_STATUS_NO_DESKTOP_ACCESS"
+C:\Users\Admin\Desktop\ExentriC Imgui Menu\SDK\Include\dxgitype.h(16,1): warning C4005: "DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(57715,1): message : Siehe vorherige Definition von "DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE"
+C:\Users\Admin\Desktop\ExentriC Imgui Menu\SDK\Include\dxgitype.h(17,1): warning C4005: "DXGI_STATUS_MODE_CHANGED": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(57724,1): message : Siehe vorherige Definition von "DXGI_STATUS_MODE_CHANGED"
+C:\Users\Admin\Desktop\ExentriC Imgui Menu\SDK\Include\dxgitype.h(18,1): warning C4005: "DXGI_STATUS_MODE_CHANGE_IN_PROGRESS": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(57733,1): message : Siehe vorherige Definition von "DXGI_STATUS_MODE_CHANGE_IN_PROGRESS"
+C:\Users\Admin\Desktop\ExentriC Imgui Menu\SDK\Include\dxgitype.h(21,1): warning C4005: "DXGI_ERROR_INVALID_CALL": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(57748,1): message : Siehe vorherige Definition von "DXGI_ERROR_INVALID_CALL"
+C:\Users\Admin\Desktop\ExentriC Imgui Menu\SDK\Include\dxgitype.h(22,1): warning C4005: "DXGI_ERROR_NOT_FOUND": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(57757,1): message : Siehe vorherige Definition von "DXGI_ERROR_NOT_FOUND"
+C:\Users\Admin\Desktop\ExentriC Imgui Menu\SDK\Include\dxgitype.h(23,1): warning C4005: "DXGI_ERROR_MORE_DATA": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(57766,1): message : Siehe vorherige Definition von "DXGI_ERROR_MORE_DATA"
+C:\Users\Admin\Desktop\ExentriC Imgui Menu\SDK\Include\dxgitype.h(24,1): warning C4005: "DXGI_ERROR_UNSUPPORTED": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(57775,1): message : Siehe vorherige Definition von "DXGI_ERROR_UNSUPPORTED"
+C:\Users\Admin\Desktop\ExentriC Imgui Menu\SDK\Include\dxgitype.h(25,1): warning C4005: "DXGI_ERROR_DEVICE_REMOVED": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(57784,1): message : Siehe vorherige Definition von "DXGI_ERROR_DEVICE_REMOVED"
+C:\Users\Admin\Desktop\ExentriC Imgui Menu\SDK\Include\dxgitype.h(26,1): warning C4005: "DXGI_ERROR_DEVICE_HUNG": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(57793,1): message : Siehe vorherige Definition von "DXGI_ERROR_DEVICE_HUNG"
+C:\Users\Admin\Desktop\ExentriC Imgui Menu\SDK\Include\dxgitype.h(27,1): warning C4005: "DXGI_ERROR_DEVICE_RESET": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(57803,1): message : Siehe vorherige Definition von "DXGI_ERROR_DEVICE_RESET"
+C:\Users\Admin\Desktop\ExentriC Imgui Menu\SDK\Include\dxgitype.h(28,1): warning C4005: "DXGI_ERROR_WAS_STILL_DRAWING": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(57812,1): message : Siehe vorherige Definition von "DXGI_ERROR_WAS_STILL_DRAWING"
+C:\Users\Admin\Desktop\ExentriC Imgui Menu\SDK\Include\dxgitype.h(29,1): warning C4005: "DXGI_ERROR_FRAME_STATISTICS_DISJOINT": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(57822,1): message : Siehe vorherige Definition von "DXGI_ERROR_FRAME_STATISTICS_DISJOINT"
+C:\Users\Admin\Desktop\ExentriC Imgui Menu\SDK\Include\dxgitype.h(30,1): warning C4005: "DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(57831,1): message : Siehe vorherige Definition von "DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE"
+C:\Users\Admin\Desktop\ExentriC Imgui Menu\SDK\Include\dxgitype.h(31,1): warning C4005: "DXGI_ERROR_DRIVER_INTERNAL_ERROR": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(57841,1): message : Siehe vorherige Definition von "DXGI_ERROR_DRIVER_INTERNAL_ERROR"
+C:\Users\Admin\Desktop\ExentriC Imgui Menu\SDK\Include\dxgitype.h(32,1): warning C4005: "DXGI_ERROR_NONEXCLUSIVE": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(57850,1): message : Siehe vorherige Definition von "DXGI_ERROR_NONEXCLUSIVE"
+C:\Users\Admin\Desktop\ExentriC Imgui Menu\SDK\Include\dxgitype.h(33,1): warning C4005: "DXGI_ERROR_NOT_CURRENTLY_AVAILABLE": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(57859,1): message : Siehe vorherige Definition von "DXGI_ERROR_NOT_CURRENTLY_AVAILABLE"
+C:\Users\Admin\Desktop\ExentriC Imgui Menu\SDK\Include\dxgitype.h(34,1): warning C4005: "DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(57869,1): message : Siehe vorherige Definition von "DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED"
+C:\Users\Admin\Desktop\ExentriC Imgui Menu\SDK\Include\dxgitype.h(35,1): warning C4005: "DXGI_ERROR_REMOTE_OUTOFMEMORY": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(57878,1): message : Siehe vorherige Definition von "DXGI_ERROR_REMOTE_OUTOFMEMORY"
+C:\Users\Admin\Desktop\ExentriC Imgui Menu\SDK\Include\d3d11.h(917,1): warning C4005: "D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(58170,1): message : Siehe vorherige Definition von "D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS"
+C:\Users\Admin\Desktop\ExentriC Imgui Menu\SDK\Include\d3d11.h(918,1): warning C4005: "D3D11_ERROR_FILE_NOT_FOUND": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(58179,1): message : Siehe vorherige Definition von "D3D11_ERROR_FILE_NOT_FOUND"
+C:\Users\Admin\Desktop\ExentriC Imgui Menu\SDK\Include\d3d11.h(919,1): warning C4005: "D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(58189,1): message : Siehe vorherige Definition von "D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS"
+C:\Users\Admin\Desktop\ExentriC Imgui Menu\SDK\Include\d3d11.h(920,1): warning C4005: "D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(58198,1): message : Siehe vorherige Definition von "D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD"
+C:\Users\Admin\Desktop\ExentriC Imgui Menu\SDK\Include\d3d10.h(608,1): warning C4005: "D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(58146,1): message : Siehe vorherige Definition von "D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS"
+C:\Users\Admin\Desktop\ExentriC Imgui Menu\SDK\Include\d3d10.h(609,1): warning C4005: "D3D10_ERROR_FILE_NOT_FOUND": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(58155,1): message : Siehe vorherige Definition von "D3D10_ERROR_FILE_NOT_FOUND"
+C:\Users\Admin\Desktop\ExentriC Imgui Menu\examples\example_win32_directx11\notification.h(95,52): warning C4458: Deklaration von "type" blendet Klassenmember aus
+C:\Users\Admin\Desktop\ExentriC Imgui Menu\examples\example_win32_directx11\notification.h(76,17): message : Siehe Deklaration von "ImGuiToast::type"
+C:\Users\Admin\Desktop\ExentriC Imgui Menu\examples\example_win32_directx11\notification.h(267,35): warning C4130: "==": Logische Operation mit Adresse einer Zeichenfolgenkonstanten
+C:\Users\Admin\Desktop\ExentriC Imgui Menu\examples\example_win32_directx11\notification.h(269,35): warning C4130: "==": Logische Operation mit Adresse einer Zeichenfolgenkonstanten
+C:\Users\Admin\Desktop\ExentriC Imgui Menu\examples\example_win32_directx11\notification.h(271,33): warning C4130: "==": Logische Operation mit Adresse einer Zeichenfolgenkonstanten
+C:\Users\Admin\Desktop\ExentriC Imgui Menu\examples\example_win32_directx11\notification.h(273,32): warning C4130: "==": Logische Operation mit Adresse einer Zeichenfolgenkonstanten
+C:\Users\Admin\Desktop\ExentriC Imgui Menu\examples\example_win32_directx11\notification.h(275,34): warning C4130: "==": Logische Operation mit Adresse einer Zeichenfolgenkonstanten
+C:\Users\Admin\Desktop\ExentriC Imgui Menu\examples\example_win32_directx11\notification.h(239,16): warning C4189: "title": Lokale Variable ist initialisiert aber nicht referenziert
+C:\Users\Admin\Desktop\ExentriC Imgui Menu\examples\example_win32_directx11\notification.h(261,19): warning C4189: "pos": Lokale Variable ist initialisiert aber nicht referenziert
+C:\Users\Admin\Desktop\ExentriC Imgui Menu\examples\example_win32_directx11\main.cpp(131,10): warning C4459: Deklaration von "hwnd" blendet globale Deklaration aus
+C:\Users\Admin\Desktop\ExentriC Imgui Menu\examples\example_win32_directx11\main.cpp(20,6): message : Siehe Deklaration von "hwnd"
+C:\Users\Admin\Desktop\ExentriC Imgui Menu\examples\example_win32_directx11\main.cpp(316,134): warning C4390: ";": Leere kontrollierte Anweisung aufgetreten; ist dies beabsichtigt?
+C:\Users\Admin\Desktop\ExentriC Imgui Menu\examples\example_win32_directx11\main.cpp(172,10): warning C4189: "show_another_window": Lokale Variable ist initialisiert aber nicht referenziert
+LINK : warning LNK4098: Standardbibliothek "LIBCMT" steht in Konflikt mit anderen Bibliotheken; /NODEFAULTLIB:Bibliothek verwenden.
+  Code wird generiert.
+  Previous IPDB not found, fall back to full compilation.
+C:\Users\Admin\Desktop\ExentriC Imgui Menu\examples\example_win32_directx11\notification.h(157): warning C4172: Adresse einer lokalen Variablen oder eines temporären Werts "" wird zurückgegeben
+C:\Users\Admin\Desktop\ExentriC Imgui Menu\examples\example_win32_directx11\notification.h(161): warning C4172: Adresse einer lokalen Variablen oder eines temporären Werts "" wird zurückgegeben
+C:\Users\Admin\Desktop\ExentriC Imgui Menu\examples\example_win32_directx11\notification.h(165): warning C4172: Adresse einer lokalen Variablen oder eines temporären Werts "" wird zurückgegeben
+C:\Users\Admin\Desktop\ExentriC Imgui Menu\examples\example_win32_directx11\notification.h(169): warning C4172: Adresse einer lokalen Variablen oder eines temporären Werts "" wird zurückgegeben
+C:\Users\Admin\Desktop\ExentriC Imgui Menu\examples\example_win32_directx11\notification.h(145): warning C4715: "ImGuiToast::get_color": Nicht alle Codepfade geben einen Wert zurück.
+C:\Users\Admin\Desktop\ExentriC Imgui Menu\examples\example_win32_directx11\notification.h(133): warning C4172: Adresse einer lokalen Variablen oder eines temporären Werts "" wird zurückgegeben
+C:\Users\Admin\Desktop\ExentriC Imgui Menu\examples\example_win32_directx11\notification.h(135): warning C4172: Adresse einer lokalen Variablen oder eines temporären Werts "" wird zurückgegeben
+C:\Users\Admin\Desktop\ExentriC Imgui Menu\examples\example_win32_directx11\notification.h(137): warning C4172: Adresse einer lokalen Variablen oder eines temporären Werts "" wird zurückgegeben
+C:\Users\Admin\Desktop\ExentriC Imgui Menu\examples\example_win32_directx11\notification.h(139): warning C4172: Adresse einer lokalen Variablen oder eines temporären Werts "" wird zurückgegeben
+C:\Users\Admin\Desktop\ExentriC Imgui Menu\examples\example_win32_directx11\notification.h(141): warning C4172: Adresse einer lokalen Variablen oder eines temporären Werts "" wird zurückgegeben
+C:\Users\Admin\Desktop\ExentriC Imgui Menu\examples\example_win32_directx11\notification.h(143): warning C4172: Adresse einer lokalen Variablen oder eines temporären Werts "" wird zurückgegeben
+  All 2740 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Codegenerierung ist abgeschlossen.
+freetype.lib(ftinit.obj) : warning LNK4099: PDB "" wurde nicht mit "freetype.lib(ftinit.obj)" oder an "" gefunden; Objekt wird verknüpft, als ob keine Debuginformationen vorhanden wären.
+freetype.lib(ftbase.obj) : warning LNK4099: PDB "" wurde nicht mit "freetype.lib(ftbase.obj)" oder an "" gefunden; Objekt wird verknüpft, als ob keine Debuginformationen vorhanden wären.
+freetype.lib(ftsynth.obj) : warning LNK4099: PDB "" wurde nicht mit "freetype.lib(ftsynth.obj)" oder an "" gefunden; Objekt wird verknüpft, als ob keine Debuginformationen vorhanden wären.
+freetype.lib(autofit.obj) : warning LNK4099: PDB "" wurde nicht mit "freetype.lib(autofit.obj)" oder an "" gefunden; Objekt wird verknüpft, als ob keine Debuginformationen vorhanden wären.
+freetype.lib(truetype.obj) : warning LNK4099: PDB "" wurde nicht mit "freetype.lib(truetype.obj)" oder an "" gefunden; Objekt wird verknüpft, als ob keine Debuginformationen vorhanden wären.
+freetype.lib(type1.obj) : warning LNK4099: PDB "" wurde nicht mit "freetype.lib(type1.obj)" oder an "" gefunden; Objekt wird verknüpft, als ob keine Debuginformationen vorhanden wären.
+freetype.lib(cff.obj) : warning LNK4099: PDB "" wurde nicht mit "freetype.lib(cff.obj)" oder an "" gefunden; Objekt wird verknüpft, als ob keine Debuginformationen vorhanden wären.
+freetype.lib(type1cid.obj) : warning LNK4099: PDB "" wurde nicht mit "freetype.lib(type1cid.obj)" oder an "" gefunden; Objekt wird verknüpft, als ob keine Debuginformationen vorhanden wären.
+freetype.lib(pfr.obj) : warning LNK4099: PDB "" wurde nicht mit "freetype.lib(pfr.obj)" oder an "" gefunden; Objekt wird verknüpft, als ob keine Debuginformationen vorhanden wären.
+freetype.lib(type42.obj) : warning LNK4099: PDB "" wurde nicht mit "freetype.lib(type42.obj)" oder an "" gefunden; Objekt wird verknüpft, als ob keine Debuginformationen vorhanden wären.
+freetype.lib(winfnt.obj) : warning LNK4099: PDB "" wurde nicht mit "freetype.lib(winfnt.obj)" oder an "" gefunden; Objekt wird verknüpft, als ob keine Debuginformationen vorhanden wären.
+freetype.lib(pcf.obj) : warning LNK4099: PDB "" wurde nicht mit "freetype.lib(pcf.obj)" oder an "" gefunden; Objekt wird verknüpft, als ob keine Debuginformationen vorhanden wären.
+freetype.lib(bdf.obj) : warning LNK4099: PDB "" wurde nicht mit "freetype.lib(bdf.obj)" oder an "" gefunden; Objekt wird verknüpft, als ob keine Debuginformationen vorhanden wären.
+freetype.lib(psaux.obj) : warning LNK4099: PDB "" wurde nicht mit "freetype.lib(psaux.obj)" oder an "" gefunden; Objekt wird verknüpft, als ob keine Debuginformationen vorhanden wären.
+freetype.lib(psmodule.obj) : warning LNK4099: PDB "" wurde nicht mit "freetype.lib(psmodule.obj)" oder an "" gefunden; Objekt wird verknüpft, als ob keine Debuginformationen vorhanden wären.
+freetype.lib(pshinter.obj) : warning LNK4099: PDB "" wurde nicht mit "freetype.lib(pshinter.obj)" oder an "" gefunden; Objekt wird verknüpft, als ob keine Debuginformationen vorhanden wären.
+freetype.lib(sfnt.obj) : warning LNK4099: PDB "" wurde nicht mit "freetype.lib(sfnt.obj)" oder an "" gefunden; Objekt wird verknüpft, als ob keine Debuginformationen vorhanden wären.
+freetype.lib(smooth.obj) : warning LNK4099: PDB "" wurde nicht mit "freetype.lib(smooth.obj)" oder an "" gefunden; Objekt wird verknüpft, als ob keine Debuginformationen vorhanden wären.
+freetype.lib(raster.obj) : warning LNK4099: PDB "" wurde nicht mit "freetype.lib(raster.obj)" oder an "" gefunden; Objekt wird verknüpft, als ob keine Debuginformationen vorhanden wären.
+freetype.lib(sdf.obj) : warning LNK4099: PDB "" wurde nicht mit "freetype.lib(sdf.obj)" oder an "" gefunden; Objekt wird verknüpft, als ob keine Debuginformationen vorhanden wären.
+freetype.lib(svg.obj) : warning LNK4099: PDB "" wurde nicht mit "freetype.lib(svg.obj)" oder an "" gefunden; Objekt wird verknüpft, als ob keine Debuginformationen vorhanden wären.
+freetype.lib(ftsystem.obj) : warning LNK4099: PDB "" wurde nicht mit "freetype.lib(ftsystem.obj)" oder an "" gefunden; Objekt wird verknüpft, als ob keine Debuginformationen vorhanden wären.
+freetype.lib(ftbitmap.obj) : warning LNK4099: PDB "" wurde nicht mit "freetype.lib(ftbitmap.obj)" oder an "" gefunden; Objekt wird verknüpft, als ob keine Debuginformationen vorhanden wären.
+freetype.lib(ftgzip.obj) : warning LNK4099: PDB "" wurde nicht mit "freetype.lib(ftgzip.obj)" oder an "" gefunden; Objekt wird verknüpft, als ob keine Debuginformationen vorhanden wären.
+freetype.lib(ftlzw.obj) : warning LNK4099: PDB "" wurde nicht mit "freetype.lib(ftlzw.obj)" oder an "" gefunden; Objekt wird verknüpft, als ob keine Debuginformationen vorhanden wären.
+freetype.lib(ftdebug.obj) : warning LNK4099: PDB "" wurde nicht mit "freetype.lib(ftdebug.obj)" oder an "" gefunden; Objekt wird verknüpft, als ob keine Debuginformationen vorhanden wären.
+  example_win32_directx11.vcxproj -> C:\Users\Admin\Desktop\ExentriC Imgui Menu\examples\example_win32_directx11\Release\example_win32_directx11.exe

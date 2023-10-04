@@ -1,0 +1,61 @@
+﻿  imgui_widgets.cpp
+C:\Users\NOins\Desktop\imgui desearte\imgui_widgets.cpp(1091,122): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\NOins\Desktop\imgui desearte\imgui_widgets.cpp(1056,23): warning C4189: style: локальная переменная инициализирована, но не использована
+C:\Users\NOins\Desktop\imgui desearte\imgui_widgets.cpp(1147,187): warning C4244: аргумент: преобразование "float" в "ImDrawFlags", возможна потеря данных
+C:\Users\NOins\Desktop\imgui desearte\imgui_widgets.cpp(1120,23): warning C4189: style: локальная переменная инициализирована, но не использована
+C:\Users\NOins\Desktop\imgui desearte\imgui_widgets.cpp(1171,23): warning C4189: style: локальная переменная инициализирована, но не использована
+C:\Users\NOins\Desktop\imgui desearte\imgui_widgets.cpp(1403,151): warning C4100: flags: неиспользованный формальный параметр
+C:\Users\NOins\Desktop\imgui desearte\imgui_widgets.cpp(1593,23): warning C4189: style: локальная переменная инициализирована, но не использована
+C:\Users\NOins\Desktop\imgui desearte\imgui_widgets.cpp(2213,25): warning C4189: pressed: локальная переменная инициализирована, но не использована
+C:\Users\NOins\Desktop\imgui desearte\imgui_widgets.cpp(2193,30): warning C4189: backup_next_window_data_flags: локальная переменная инициализирована, но не использована
+C:\Users\NOins\Desktop\imgui desearte\imgui_widgets.cpp(2267,10): warning C4189: ret: локальная переменная инициализирована, но не использована
+C:\Users\NOins\Desktop\imgui desearte\imgui_widgets.cpp(2298,51): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\NOins\Desktop\imgui desearte\imgui_widgets.cpp(2281,19): warning C4189: g: локальная переменная инициализирована, но не использована
+C:\Users\NOins\Desktop\imgui desearte\imgui_widgets.cpp(2410,43): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\NOins\Desktop\imgui desearte\imgui_widgets.cpp(3552,153): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\NOins\Desktop\imgui desearte\imgui_widgets.cpp(3553,151): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\NOins\Desktop\imgui desearte\imgui_widgets.cpp(5759,60): warning C4390: ";": обнаружен пустой контролируемый оператор; это правильно?
+C:\Users\NOins\Desktop\imgui desearte\imgui_widgets.cpp(5761,61): warning C4390: ";": обнаружен пустой контролируемый оператор; это правильно?
+C:\Users\NOins\Desktop\imgui desearte\imgui_widgets.cpp(6105,153): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\NOins\Desktop\imgui desearte\imgui_widgets.cpp(5879,99): warning C4100: ref_col: неиспользованный формальный параметр
+C:\Users\NOins\Desktop\imgui desearte\imgui_widgets.cpp(5917,11): warning C4189: square_sz: локальная переменная инициализирована, но не использована
+C:\Users\NOins\Desktop\imgui desearte\imgui_widgets.cpp(5923,11): warning C4189: bars_triangles_half_sz: локальная переменная инициализирована, но не использована
+C:\Users\NOins\Desktop\imgui desearte\imgui_widgets.cpp(6047,17): warning C4189: col_midgrey: локальная переменная инициализирована, но не использована
+C:\Users\NOins\Desktop\imgui desearte\imgui_widgets.cpp(6119,106): warning C4100: size_arg: неиспользованный формальный параметр
+C:\Users\NOins\Desktop\imgui desearte\imgui_widgets.cpp(6127,17): warning C4189: default_size: локальная переменная инициализирована, но не использована
+C:\Users\NOins\Desktop\imgui desearte\imgui_widgets.cpp(6125,19): warning C4189: g: локальная переменная инициализирована, но не использована
+C:\Users\NOins\Desktop\imgui desearte\imgui_widgets.cpp(5563,13): warning C4505: "ColorEditRestoreH": неиспользованная функция с внутренним связыванием удалена
+C:\Users\NOins\Desktop\imgui desearte\imgui_widgets.cpp(5858,13): warning C4505: "RenderArrowsForVerticalBar": неиспользованная функция с внутренним связыванием удалена
+LINK : warning LNK4098: библиотека по умолчанию "LIBCMT" конфликтует с использованием других библиотек; используйте /NODEFAULTLIB:library
+  Создание кода
+  1 of 2739 functions (<0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    32 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+freetype.lib(ftinit.obj) : warning LNK4099: "" PDB не найден с "freetype.lib(ftinit.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+freetype.lib(ftbase.obj) : warning LNK4099: "" PDB не найден с "freetype.lib(ftbase.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+freetype.lib(ftsynth.obj) : warning LNK4099: "" PDB не найден с "freetype.lib(ftsynth.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+freetype.lib(autofit.obj) : warning LNK4099: "" PDB не найден с "freetype.lib(autofit.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+freetype.lib(truetype.obj) : warning LNK4099: "" PDB не найден с "freetype.lib(truetype.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+freetype.lib(type1.obj) : warning LNK4099: "" PDB не найден с "freetype.lib(type1.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+freetype.lib(cff.obj) : warning LNK4099: "" PDB не найден с "freetype.lib(cff.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+freetype.lib(type1cid.obj) : warning LNK4099: "" PDB не найден с "freetype.lib(type1cid.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+freetype.lib(pfr.obj) : warning LNK4099: "" PDB не найден с "freetype.lib(pfr.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+freetype.lib(type42.obj) : warning LNK4099: "" PDB не найден с "freetype.lib(type42.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+freetype.lib(winfnt.obj) : warning LNK4099: "" PDB не найден с "freetype.lib(winfnt.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+freetype.lib(pcf.obj) : warning LNK4099: "" PDB не найден с "freetype.lib(pcf.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+freetype.lib(bdf.obj) : warning LNK4099: "" PDB не найден с "freetype.lib(bdf.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+freetype.lib(psaux.obj) : warning LNK4099: "" PDB не найден с "freetype.lib(psaux.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+freetype.lib(psmodule.obj) : warning LNK4099: "" PDB не найден с "freetype.lib(psmodule.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+freetype.lib(pshinter.obj) : warning LNK4099: "" PDB не найден с "freetype.lib(pshinter.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+freetype.lib(sfnt.obj) : warning LNK4099: "" PDB не найден с "freetype.lib(sfnt.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+freetype.lib(smooth.obj) : warning LNK4099: "" PDB не найден с "freetype.lib(smooth.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+freetype.lib(raster.obj) : warning LNK4099: "" PDB не найден с "freetype.lib(raster.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+freetype.lib(sdf.obj) : warning LNK4099: "" PDB не найден с "freetype.lib(sdf.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+freetype.lib(svg.obj) : warning LNK4099: "" PDB не найден с "freetype.lib(svg.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+freetype.lib(ftsystem.obj) : warning LNK4099: "" PDB не найден с "freetype.lib(ftsystem.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+freetype.lib(ftbitmap.obj) : warning LNK4099: "" PDB не найден с "freetype.lib(ftbitmap.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+freetype.lib(ftgzip.obj) : warning LNK4099: "" PDB не найден с "freetype.lib(ftgzip.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+freetype.lib(ftlzw.obj) : warning LNK4099: "" PDB не найден с "freetype.lib(ftlzw.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+freetype.lib(ftdebug.obj) : warning LNK4099: "" PDB не найден с "freetype.lib(ftdebug.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+  example_win32_directx11.vcxproj -> C:\Users\NOins\Desktop\imgui desearte\examples\example_win32_directx11\Release\example_win32_directx11.exe
